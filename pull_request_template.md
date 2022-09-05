@@ -1,0 +1,5 @@
+- Heading
+- Link to ticket
+- One liner ticket title/description
+- If not intuitive from the ticket -> short summary of code changes
+- Recomendations for reviewers e.g. download and run code locally etc
