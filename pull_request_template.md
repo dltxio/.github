@@ -1,4 +1,4 @@
 - [Link to ticket](url)
 - One liner ticket title/description
 - If not intuitive from the ticket -> short summary of code changes
-- Reccomendations for reviewers e.g. download and run code locally etc
+- Recommendations for reviewers e.g. download and run code locally etc
